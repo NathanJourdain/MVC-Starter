@@ -1,0 +1,17 @@
+{
+    "name": "nathanjourdain/mmitools",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NathanJourdain",
+            "email": "nathan.jourdain50700@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.7"
+    }
+}
